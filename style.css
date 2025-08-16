@@ -12,20 +12,20 @@ body{
 }
 section{
     margin: 70px;
-    height: 800px;
-    width: 600px;
+    height: 600px;
+    width: 400px;
     background-color: antiquewhite;
     border-radius: 5px;
 }
-h2{
+h3{
     font-size: 45px;
     font-weight: 800;
     font-family:  Libertinus Serif;
     text-align: center;
-    margin: 10px;
+    margin: 7px;
     justify-content: center;
-    margin-top: 4rem;
-    margin-bottom: 4rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     color: white;
     border-radius: 5px;
     background-color: black;
@@ -44,11 +44,14 @@ button{
     border: 1px solid black;
 
 }
+#btn{
+    background-color: rgba(8, 88, 8, 0.788);
+}
 ul{
     font-size: 30px; 
     background-color: black;
     border-radius: 5px;
     margin: 10px;
     color: white;
-    padding: 30px;
+    padding: 20px;
 }
